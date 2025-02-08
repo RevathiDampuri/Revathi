@@ -1,2 +1,0 @@
-# Revathi
-Applied software development
